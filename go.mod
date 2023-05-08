@@ -1,4 +1,4 @@
-module github.com/go-testfixtures/testfixtures/v3
+module github.com/elcamino/testfixtures/v3
 
 require (
 	github.com/ClickHouse/clickhouse-go/v2 v2.9.1
